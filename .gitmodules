@@ -16,3 +16,9 @@
 [submodule ".vim/bundle/jQuery"]
 	path = .vim/bundle/jQuery
 	url = git://github.com/vim-scripts/jQuery.git
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = git://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = git://github.com/scrooloose/syntastic.git
