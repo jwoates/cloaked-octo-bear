@@ -4,3 +4,15 @@
 [submodule ".vim/bundle/Command-T"]
 	path = .vim/bundle/Command-T
 	url = git://github.com/wincent/Command-T.git
+[submodule ".vim/bundle/PickAColor"]
+	path = .vim/bundle/PickAColor
+	url = git://github.com/vim-scripts/PickAColor.vim.git
+[submodule ".vim/bundle/UltiSnips"]
+	path = .vim/bundle/UltiSnips
+	url = git://github.com/vim-scripts/UltiSnips.git
+[submodule ".vim/bundle/ack"]
+	path = .vim/bundle/ack
+	url = git://github.com/mileszs/ack.vim.git
+[submodule ".vim/bundle/jQuery"]
+	path = .vim/bundle/jQuery
+	url = git://github.com/vim-scripts/jQuery.git
